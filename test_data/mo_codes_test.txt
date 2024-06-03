@@ -1,0 +1,88 @@
+0100
+Suspect Impersonate
+0101
+Aid victim
+0102
+Blind
+0103
+Physically disabled
+0104
+Customer
+0105
+Delivery
+0106
+Doctor
+0107
+God
+0108
+Infirm
+0109
+Inspector
+0110
+Involved in traffic/accident
+0112
+Police
+0113
+Renting
+0114
+Repair Person
+0115
+Returning stolen property
+0116
+Satan
+0117
+Salesman
+0118
+Seeking someone
+0119
+Sent by owner
+0120
+Social Security/Medicare
+0121
+DWP/Gas Company/Utility worker
+0122
+Contractor
+0123
+Gardener/Tree Trimmer
+0200
+Suspect wore disguise
+0201
+Bag
+0202
+Cap/hat
+0203
+Cloth (with eyeholes)
+0204
+Clothes of opposite sex
+0205
+Earring
+0206
+Gloves
+0207
+Handkerchief
+0208
+Halloween mask
+0209
+Mask
+0210
+Make up (males only)
+0211
+Shoes
+0212
+Nude/partly nude
+0213
+Ski mask
+0214
+Stocking
+0215
+Unusual clothes
+0216
+Suspect wore hood/hoodie
+0217
+Uniform
+0218
+Wig
+0219
+Mustache-Fake
+0220
+Suspect wore motorcycle helmet

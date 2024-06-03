@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "csv-reader": "^1.0.12",
+    "lodash": "^4.17.21",
+    "ts-progress": "^0.1.9"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.11"
+  }
+}
